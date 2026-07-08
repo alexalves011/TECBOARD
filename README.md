@@ -69,9 +69,4 @@ Esse projeto foi desenvolvido com fins educacionais para praticar:
 - Estilização com CSS.
 - Uso de props e renderização condicional.
 
-Ideal para quem quer dar os primeiros passos em React criando algo visual, interativo e útil.
-
-Se quiser adicionar deploy com Vercel, persistência com LocalStorage ou backend com Firebase, este projeto é uma ótima base para evoluir!
-
-Vida longa e próspera 🖖
 
